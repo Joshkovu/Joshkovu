@@ -1,5 +1,5 @@
 ## Bio :
-# I am Joash Kuteesa , a passionate software developer in the domain of mobile and web application development. I am interested in working on cool projects. On the other hand i like meeting new people and getting to know them 
+# My name is Joash Kuteesa, and I am a passionate software developer specializing in mobile and web applications. I'm interested in working on exciting projects. On the other side, I enjoy meeting new individuals and getting to know them
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joa_shk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joash-kuteesa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joashkuteesa223@gmail.com) 
 
