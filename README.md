@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Bio :<br># 👋 Hi, I'm Joash Kuteesa<br># 🚀 Backend & Blockchain Developer<br># ⚙️ Golang | Solidity | Smart Contracts<br>-  I build robust backend systems and secure, efficient smart contracts with a strong focus on performance, correctness, and clean architecture.<br># Currently grinding on:<br>- High-performance backends with Go<br>- Solidity smart contracts, testing & security<br>- Blockchain infrastructure and on-chain systems<br>- I believe in learning by building and understanding things from first principles.<br>- 💡 Always open to collaborating on serious backend or Web3 projects.
+## Bio :<br> 👋 Hi, I'm Joash Kuteesa<br>  🚀 Backend & Blockchain Developer<br> ⚙️ Golang | Solidity | Smart Contracts<br>-  I build robust backend systems and secure, efficient smart contracts with a strong focus on performance, correctness, and clean architecture.<br># Currently grinding on:<br>- High-performance backends with Go<br>- Solidity smart contracts, testing & security<br>- Blockchain infrastructure and on-chain systems<br>- I believe in learning by building and understanding things from first principles.<br>- 💡 Always open to collaborating on serious backend or Web3 projects.
 
 
 ## 🌐 Socials:
