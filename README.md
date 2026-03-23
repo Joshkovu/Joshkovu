@@ -5,7 +5,8 @@
 # 💫 About Me:
 Backend & Blockchain Developer <br>
 Golang | Solidity | Smart Contracts <br>
-I build robust backend systems and secure, efficient smart contracts with a strong focus on performance, correctness, and clean architecture.
+I build robust backend systems and secure, efficient smart contracts with a strong focus on performance, correctness, and clean architecture. <br>
+
  Currently grinding on:
 - High-performance backends with Go
 - Solidity smart contracts, testing & security
