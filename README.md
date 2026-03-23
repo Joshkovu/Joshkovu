@@ -3,7 +3,6 @@
 
 
 # 💫 About Me:
-Hi, I'm Joash Kuteesa <br>
 Backend & Blockchain Developer
 Golang | Solidity | Smart Contracts
 I build robust backend systems and secure, efficient smart contracts with a strong focus on performance, correctness, and clean architecture.
