@@ -1,16 +1,20 @@
+
+![Coding GIF](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
+
+
 # 💫 About Me:
-## Bio :
-# Hi, I'm Joash Kuteesa<br>  
-## 🚀 Backend & Blockchain Developer
-# Golang | Solidity | Smart Contracts
-- I build robust backend systems and secure, efficient smart contracts with a strong focus on performance, correctness, and clean architecture.
-# Currently grinding on:
+Hi, I'm Joash Kuteesa <br>
+Backend & Blockchain Developer
+Golang | Solidity | Smart Contracts
+I build robust backend systems and secure, efficient smart contracts with a strong focus on performance, correctness, and clean architecture.
+ Currently grinding on:
 - High-performance backends with Go
 - Solidity smart contracts, testing & security
 - Blockchain infrastructure and on-chain systems
 - I believe in learning by building and understanding things from first principles.
 - Always open to collaborating on serious backend or Web3 projects.
-
+  
+![Coding_GIF](https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@joa_shk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshkovu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joashkuteesa223@gmail.com) 
 
