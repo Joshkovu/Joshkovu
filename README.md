@@ -66,13 +66,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joshkovu&theme=dark&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshkovu&theme=dark&layout=compact&hide_border=true" width="48%"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joshkovu&theme=dark&show_icons=true&hide_border=true" width="80%" /> <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshkovu&theme=dark&layout=compact&hide_border=true" width="80%"  />
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Joshkovu&theme=dark&hide_border=true" />
-</p>
+
 
 ---
 
