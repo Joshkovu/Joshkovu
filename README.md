@@ -41,7 +41,7 @@
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,solidity,mysql,postgres,docker,gcp,firebase,vercel,githubactions,git,postman" />
+  <img src="https://skillicons.dev/icons?i=go,python,ts,solidity,mysql,postgres,docker,gcp,firebase,vercel,githubactions,git,postman" />
 </p>
 
 ---
