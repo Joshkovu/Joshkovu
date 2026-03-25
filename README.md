@@ -41,7 +41,7 @@
 
 # 💻 Tech Stack
 
-### 🎨 Frontend & Mobile
+### 🎨 Frontend 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma" />
 </p>
