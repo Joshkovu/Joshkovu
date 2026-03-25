@@ -38,7 +38,7 @@
 </div>
 
 ---
-
+[![committers.top badge](https://user-badge.committers.top/uganda/joshkovu.svg)](https://user-badge.committers.top/uganda/joshkovu)
 # 💻 Tech Stack
 
 ### 🎨 Frontend 
