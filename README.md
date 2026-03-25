@@ -1,6 +1,6 @@
 
 ![Coding GIF](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&vCenter=true&width=435&lines=Hello+%2C+I'm+Joash+;Backend++developer;Smart+contract+developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
 Backend & Blockchain Developer <br>
