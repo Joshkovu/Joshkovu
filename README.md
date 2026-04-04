@@ -38,7 +38,7 @@
 </div>
 
 ---
-[![committers.top badge](https://user-badge.committers.top/uganda/USERNAME.svg)](https://user-badge.committers.top/uganda/USERNAME)
+
 # 💻 Tech Stack
 
 ### 🎨 Frontend 
