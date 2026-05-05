@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&vCenter=true&width=435&lines=Hello+%2C+I'm+Joash+;Backend++developer;Smart+contract+developer" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&vCenter=true&width=435&lines=Hello+%2C+I'm+Joash+;AI+engineer;Software+developer" /></a>
 </p>
 
 ---
@@ -15,15 +15,17 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top" align="left">
-      <h1>Backend & Blockchain Developer</h1><br>
-      <strong>Golang | Solidity | Smart Contracts</strong><br><br>
-      I build robust backend systems and secure, efficient smart contracts with a strong focus on performance, correctness, and clean architecture.<br><br>
-      🚀 <strong>Currently grinding on:</strong>
-      <ul>
-        <li>High-performance backends with Go</li>
-        <li>Solidity smart contracts, testing & security</li>
-        <li>Blockchain infrastructure and on-chain systems</li>
-      </ul>
+      <h1>AI engineer</h1><br>
+    <strong>AI Engineer | Intelligent Agents | Backend Systems</strong><br><br>
+I design and build AI-powered systems that automate workflows, enhance productivity, and solve real-world problems. My work combines backend engineering with modern AI tools to deliver scalable, intelligent applications.<br><br>
+
+🚀 <strong>Currently building:</strong>
+<ul>
+  <li>AI agents and automation workflows</li>
+  <li>LLM-powered applications and integrations</li>
+  <li>Backend systems supporting AI products</li>
+  <li>Real-world AI use cases for businesses and startups</li>
+</ul>
     </td>
    <td width="50%" valign="top" align="center">
   <h1>🌐 Connect</h1><br><br><br><br>
