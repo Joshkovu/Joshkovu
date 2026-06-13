@@ -12,13 +12,15 @@
 ### 💫 About Me
 
 <div align="center">
+
+[![committers.top badge](https://user-badge.committers.top/uganda/Joshkovu.svg)](https://user-badge.committers.top/uganda/USERNAME)
+
 <table border="0">
   <tr>
     <td width="50%" valign="top" align="left">
       <h1>AI engineer</h1><br>
     <strong>AI Engineer | Intelligent Agents | Backend Systems</strong><br><br>
 I design and build AI-powered systems that automate workflows, enhance productivity, and solve real-world problems. My work combines backend engineering with modern AI tools to deliver scalable, intelligent applications.<br><br>
-
 🚀 <strong>Currently building:</strong>
 <ul>
   <li>AI agents and automation workflows</li>
