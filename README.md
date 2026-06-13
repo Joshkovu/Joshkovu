@@ -121,10 +121,10 @@ I design and build AI-powered systems that automate workflows, enhance productiv
 
 ---
 
-## 🏆 Top Contributed Repos
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Joshkovu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="80%"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Joshkovu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
 </p>
 
 ---
