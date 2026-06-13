@@ -3,45 +3,69 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="600" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&vCenter=true&width=435&lines=Hello+%2C+I'm+Joash+;AI+engineer;Software+developer" /></a>
 </p>
 
----
+--- -->
 
-### 💫 About Me
+
 
 <div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/uganda/Joshkovu.svg)](https://user-badge.committers.top/uganda/USERNAME)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Josh+%F0%9F%91%8B;AI+Engineer+%7C+Intelligent+Agents;Backend+Systems+%7C+LLM+Apps" alt="Typing SVG" />
 
-<table border="0">
+<br>
+
+[![committers.top badge](https://user-badge.committers.top/uganda/Joshkovu.svg)](https://user-badge.committers.top/uganda/Joshkovu)
+
+<br><br>
+
+</div>
+
+---
+
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" valign="top" align="left">
-      <h1>AI engineer</h1><br>
-    <strong>AI Engineer | Intelligent Agents | Backend Systems</strong><br><br>
-I design and build AI-powered systems that automate workflows, enhance productivity, and solve real-world problems. My work combines backend engineering with modern AI tools to deliver scalable, intelligent applications.<br><br>
-🚀 <strong>Currently building:</strong>
-<ul>
-  <li>AI agents and automation workflows</li>
-  <li>LLM-powered applications and integrations</li>
-  <li>Backend systems supporting AI products</li>
-  <li>Real-world AI use cases for businesses and startups</li>
-</ul>
-    </td>
-   <td width="50%" valign="top" align="center">
-  <h1>🌐 Connect</h1><br><br><br><br>
-  <a href="https://linkedin.com/in/joshkovu"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/@joa_shk"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:joashkuteesa223@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45"/></a>
-</td>
+    <td width="55%" valign="top" align="left">
+
+<h2>🧠 About Me</h2>
+
+**AI Engineer | Intelligent Agents | Backend Systems**
+
+I design and build AI-powered systems that automate workflows, enhance productivity, and solve real-world problems. My work combines backend engineering with modern AI tools to deliver scalable, intelligent applications.
+
+🚀 **Currently building:**
+- AI agents and automation workflows
+- LLM-powered applications and integrations
+- Backend systems supporting AI products
+- Real-world AI use cases for businesses and startups
+
+🌍 Based in **Kampala, Uganda**
+
+   </td>
+   <td width="45%" valign="top" align="center">
+
+<h2>🌐 Connect</h2>
+
+<br>
+
+<a href="https://linkedin.com/in/joshkovu"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/></a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/@joa_shk"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45"/></a>
+&nbsp;&nbsp;
+<a href="mailto:joashkuteesa223@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/Joshkovu"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="45"/></a>
+
+   </td>
   </tr>
 </table>
 </div>
 
 ---
+
 
 # 💻 Tech Stack
 
